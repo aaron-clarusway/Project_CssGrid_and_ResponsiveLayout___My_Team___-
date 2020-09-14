@@ -1,16 +1,19 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">{Project_CssGrid_and_ResponsiveLayout___My_Team___}</h1>
+<h1 align="center">My Team Member List</h1>
 
 
 <div align="center">
-  <h3> 
-    <a href="https://nurkocar.github.io/Project_CssGrid_and_ResponsiveLayout___My_Team___-/">
-      My_Project_Link
+  <h3>
+    <a href="https://your-demo-link.your-domain"> <!-- Add gihub server page link :) -->
+      Demo
+    </a>
+     | 
+    <a href="https://github.com/nurkocar/Project_CssGrid_and_ResponsiveLayout___My_Team___-">
+      Project
     </a>
  
   </h3>
 </div>
+
 
 <!-- TABLE OF CONTENTS -->
 
@@ -20,7 +23,6 @@
 - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
-- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
@@ -41,7 +43,7 @@ This is the Complete view of my page
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - HTML
-- CSS
+- CSS (Grid&ResponsiveLayout)
 
 
 
@@ -58,18 +60,11 @@ To clone and run this application, you'll need [Git](https://git-scm.com).From y
 ```bash
 # Clone this repository
 $ git clone https://github.com/nurkocar/Project_CssGrid_and_ResponsiveLayout___My_Team___-.git
-
-
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
+```
 
 ## Contact
 
+- GitHub [@nurkocar](https://github.com/nurkocar)
 
-- GitHub [@your-username](https://{github.com/nurkocar})
-
-- Linkedin [@your-linkedin](https://{www.linkedin.com/in/nur-kocar/})
+- Linkedin [@nur-kocar](https://www.linkedin.com/in/nur-kocar/)
 
